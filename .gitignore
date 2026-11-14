@@ -46,3 +46,6 @@ Thumbs.db
 *.key
 secrets.json
 moon-company-iasasus.slnx
+
+# Unity AI Assistant: personal settings of each user
+/ProjectSettings/Packages/com.unity.ai.assistant/
